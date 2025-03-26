@@ -19,8 +19,8 @@ To use this tool, ensure the following:
 
 1. Clone this repository: 
    ```bash
-   git clone https://github.com/omer1C/   ------ add ----- 
-   cd  -------- add ------
+   git clone https://github.com/omer1C/Anecdotes-home-assignment
+   cd  Anecdotes home assignment
    ```
 
 2. Install dependencies:
