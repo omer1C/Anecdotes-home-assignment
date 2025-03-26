@@ -25,7 +25,7 @@ To use this tool, ensure the following:
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 3. Activate the Python virtual environment:
