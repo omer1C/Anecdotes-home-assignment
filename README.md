@@ -23,12 +23,17 @@ To use this tool, ensure the following:
    cd  Anecdotes-home-assignment
    ```
 
-2. Install dependencies:
+2. Create a virtual environment:
+   ```python3 -m venv venv
+   source venv/bin/activate
+   ```
+
+3. Install dependencies:
    ```bash
    pip3 install -r requirements.txt
    ```
 
-3. Activate the Python virtual environment:
+4. Activate the Python virtual environment:
    - **macOS/Linux**:
      ```bash
      source venv/bin/activate
@@ -38,7 +43,7 @@ To use this tool, ensure the following:
      venv\Scripts\activate
      ```
 
-4. Run the main script:
+5. Run the main script:
    ```bash
    python main.py
    ```
